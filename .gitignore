@@ -1,0 +1,21 @@
+# LabVIEW / NI artifacts
+*.aliases
+*.lvlps
+*.lvlibp
+*.llb
+
+# Backups / temp
+*.tmp
+*.bak
+*.old
+
+# Build outputs
+Builds/
+builds/
+Dist/
+dist/
+Release/
+release/
+
+# Logs
+*.log
