@@ -12,6 +12,12 @@ Target hardware links:
 
 ---
 
+## Buy Me a Coffee
+
+If you find this project useful, you can optionally support my work by buying me a coffee.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Z020CFC6)
+
 ## Disclaimer
 
 This project is **not an official Keithley / Tektronix product**.  
